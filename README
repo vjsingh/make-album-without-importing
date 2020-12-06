@@ -1,0 +1,12 @@
+Adds all the photos in a folder to an album in Apple Photos, without importing any pictures.
+
+This is useful when you have a folder of images that may contain images that you already have in your library.
+
+Currently just searches by file names. 
+
+Easiest use case I've found is to:
+1. Import all the photos into your library, skipping duplicates
+2. Run this script
+3. Remove any extra photos that may have the same name, by sorting by date.
+
+Success!
